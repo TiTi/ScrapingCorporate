@@ -1,0 +1,9 @@
+# authentication
+appId.txt
+secret.txt
+
+# npm
+package-lock.json
+node_modules/
+
+cache/

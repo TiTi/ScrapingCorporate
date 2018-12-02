@@ -1,0 +1,16 @@
+{
+  "name": "backend-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-linkedin": "^0.5.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thibault ROHMER",
+  "license": "ISC"
+}

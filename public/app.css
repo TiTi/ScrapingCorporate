@@ -1,0 +1,32 @@
+﻿#main{
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#head{
+text-align: center;
+}
+#head h1{
+font-family: Arial;
+}
+
+#search{
+width: 50%;
+height: 30px;
+margin: 50px;
+}
+
+#companies tr{
+border-bottom: 2px solid grey;
+}
+
+#companies .company{
+font-weight: bold;
+font-size: 25px;
+font-family: Arial;
+}
+
+#companies .desc{
+text-align: justify;
+}
